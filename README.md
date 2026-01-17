@@ -11,7 +11,7 @@
 | **Protocollo Web** | HTTP/3 / HTTP/2 | **HTTP/1.0 (1996)** | ❌ FALLITO |
 | **Cifratura TLS** | TLS 1.3 | **TLS 1.2 (Legacy)** | ❌ FALLITO |
 | **DNS / rDNS** | Allineato | **Punta a miur.gov.it** | ❌ FALLITO |
-| **Backend** | Nascosto | **Esposto: mvlliport013** | ❌ VULNERABILE |
+| **Backend** | Nascosto | **Esposto: ********** | ❌ VULNERABILE |
 
 ## 🚫 Risposta alle Segnalazioni
 Tentativi di segnalazione responsabile (Responsible Disclosure) effettuati verso **CSIRT-MIM** e **SOGEI**.
@@ -19,4 +19,3 @@ Tentativi di segnalazione responsabile (Responsible Disclosure) effettuati verso
 
 ### Conclusione
 L'infrastruttura non rispetta le linee guida AgID. Il "Merito" tecnologico è assente.
-**SIT DOWN, BE HUMBLE. BITCH.** 🥭🔥
